@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Dragablz</id>
+    <version>0.0.3.178</version>
+    <title>Dragablz - Dragable and tearable tab control for WPF</title>
+    <authors>James Willock</authors>
+    <owners>James Willock</owners>
+    <licenseUrl>http://opensource.org/licenses/MS-PL</licenseUrl>
+    <projectUrl>http://dragablz.net/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/ButchersBoy/Dragablz/master/Resources/D32.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Dragable and tearable tab control for WPF</description>
+    <summary />
+    <releaseNotes>We are in alpha right now!.</releaseNotes>
+    <copyright>Copyright 2014-16 James Willock/Mulholland Software Ltd</copyright>
+    <tags>WPF TabControl Tab Tearable</tags>
+  </metadata>
+</package>

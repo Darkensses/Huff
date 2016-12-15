@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Huff" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="userbass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">darkensses@gmail.com</Value>
+    </Setting>
+    <Setting Name="keybass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2X932820152222</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
